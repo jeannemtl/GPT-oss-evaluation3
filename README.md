@@ -18,7 +18,7 @@
 <a href="https://yuyinzhou.github.io/" target="_blank">Yuyin Zhou</a>
 </p>
 
-## ⚡️Introduction
+## ⚡️ Introduction
 
 ![eval_pipeline](./assets/eval_pipeline.png)
 
@@ -27,7 +27,7 @@ In this work, we propose a fine-grained evaluation framework include two novel s
 1. Knowledge Index (KI): the correctness of the **knowledge** used
 2. Information Gain (Info Gain): the quality of the **reasoning**.
 
-## 🚀Quick Start
+## 🚀 Quick Start
 
 - **Setup:** Install the condo environment from `environment.yml`
 - **Reasoning Decomposition:** call the function [`llm_decompose_reasoning`](https://github.com/UCSC-VLAA/ReasoningEval/blob/c04017ec76856653f9c335b141bb30ccf0545a21/utils.py#L214C5-L214C28)  in `utils.py` 
